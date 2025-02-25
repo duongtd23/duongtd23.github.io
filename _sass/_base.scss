@@ -749,6 +749,18 @@ footer.sticky-bottom {
           }
         }
 
+        .conf {
+          background-color: var(--global-publication-conference-color);
+        }
+
+        .journal {
+          background-color: var(--global-publication-journal-color);
+        }
+        
+        .book {
+          background-color: var(--global-publication-book-color);
+        }
+
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
