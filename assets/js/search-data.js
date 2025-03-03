@@ -81,6 +81,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pqssh-analysis/";
+            },},{id: "projects-verifying-safe-memory-reclamation-in-concurrent-programs",
+          title: 'Verifying Safe Memory Reclamation in Concurrent Programs',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/safe-memory-reclamation-verification/";
             },},{
         id: 'social-email',
         title: 'email',
