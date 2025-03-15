@@ -15,6 +15,9 @@ nav_order: 2
 
 <div class="publications">
 
+<span class="badge rounded conference">Conference</span> 
+<span class="badge rounded journal">Journal</span> 
+
 {% bibliography %}
 
 </div>

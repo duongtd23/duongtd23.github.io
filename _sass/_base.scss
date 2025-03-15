@@ -880,6 +880,17 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+
+  span.journal {
+      background-color: var(--global-publication-journal-color);
+      margin-left: 10px;
+      width: 6rem;
+  }
+  span.conference {
+    background-color: var(--global-publication-conference-color);
+    margin-left: 0;
+    width: 6rem;
+  }
 }
 
 // Rouge Color Customization
