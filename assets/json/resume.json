@@ -41,6 +41,23 @@
   ],
   "work": [
     {
+      "name": "Japan Advanced Institute of Science and Technology (JAIST)",
+      "position": "Research Assistant Professor",
+      "url": "https://www.jaist.ac.jp",
+      "startDate": "2025-04-01",
+      "endDate": "present",
+      "highlights": ["Software Engineering", "Practical application of Formal Method"]
+    },
+    {
+      "name": "JAIST",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.jaist.ac.jp",
+      "startDate": "2024-06-01",
+      "endDate": "2025-03-31",
+      "summary": "Research on verification of Autonomous Driving Systems, working with Takashi Tomita and Toshiaki Aoki",
+      "highlights": ["autonomous driving"]
+    },
+    {
       "name": "JAIST",
       "position": "Postdoctoral Researcher",
       "url": "https://www.jaist.ac.jp",
@@ -48,15 +65,6 @@
       "endDate": "2024-05-30",
       "summary": "Research on formal verification of Post-quantum cryptographic protocols, working with Kazuhiro Ogata",
       "highlights": ["post-quantum"]
-    },
-    {
-      "name": "Japan Advanced Institute of Science and Technology (JAIST)",
-      "position": "Postdoctoral Researcher",
-      "url": "https://www.jaist.ac.jp",
-      "startDate": "2024-06-01",
-      "endDate": "present",
-      "summary": "Research on verification of Autonomous Driving Systems, working with Takashi Tomita and Toshiaki Aoki",
-      "highlights": ["autonomous driving"]
     },
     {
       "name": "VNU University of Engineering and Technology (VNU-UET)",

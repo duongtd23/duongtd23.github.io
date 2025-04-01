@@ -8,7 +8,7 @@ middle_name: Dinh
 last_name: Tran
 contact_note: > # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoc researcher at Japan Advanced Institute of Science and Technology (JAIST)
+  Research Assistant Professor at Japan Advanced Institute of Science and Technology (JAIST)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty

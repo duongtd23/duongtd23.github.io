@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://www.jaist.ac.jp/'>JAIST</a>, Ishikawa 923-1211, Japan.
+subtitle: Research Assistant Professor, <a href='https://www.jaist.ac.jp/'>JAIST</a>, Ishikawa 923-1211, Japan.
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at the Japan Advanced Institute of Science and Technology (JAIST), 
+I am a Research Assistant Professor at the Japan Advanced Institute of Science and Technology (JAIST), 
 working with [Takashi Tomita](https://www.jaist.ac.jp/english/laboratory/ngdi/tomita.html) and [Toshiaki Aoki](https://www.jaist.ac.jp/english/laboratory/ngdi/aoki.html). 
 I was fortunate to be supervised by [Kazuhiro Ogata](https://www.jaist.ac.jp/~ogata/), 
 earning my PhD in Sep 2023 and continuing as a postdoctoral researcher in his lab until May 2024.
