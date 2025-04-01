@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was appointed as a Research Assistant Professor.
+I was appointed as a **Research Assistant Professor**.
