@@ -26,7 +26,7 @@ these safety rules, the safety shield intervenes, either by modifying the action
 a safe alternative or by preventing its execution altogether.
 
 ## Decision-making Safety Shield based on Online model checking
-In this work, we propose leveraging **online model checking** to develop a
+In this work {% cite Tran2025 %}, we propose leveraging **online model checking** to develop a
 safety shield for AD. 
 Online model checking is a lightweight runtime verification technique designed to ensure the correctness of a system’s execution trace as it
 runs. 
@@ -91,6 +91,4 @@ and maneuverability, as evidenced by the travel distance as well as right lane
 change and speeding up approval rates.
 
 The formal model, shield implementation, RL agents, experiment traces,
-and other supporting materials are available at [https://github.com/fomaad/
-OnlineMC-SafetyShield](https://github.com/fomaad/
-OnlineMC-SafetyShield).
+and other supporting materials are available at [https://github.com/fomaad/OnlineMC-SafetyShield](https://github.com/fomaad/OnlineMC-SafetyShield).
