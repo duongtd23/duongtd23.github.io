@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our paper **Enhancing Decision-making Safety in Autonomous Driving Through Online Model Checking** 
-was accepted for publication at the 11th International Conference on Rigorous State Based Methods ([ABZ 2025](https://abz-conf.org/site/2025/)).
+has been accepted for publication in the 11th International Conference on Rigorous State Based Methods ([ABZ 2025](https://abz-conf.org/site/2025/)).
