@@ -9,9 +9,9 @@ category: ads
 related_publications: true
 ---
 
-Ensuring the safety of Autonomous Driving Systems (ADSs) through rigorous verification in simulated environments is crucial before real-world deployment. However, using simulation environments for ADS testing and verification poses several challenges, including specifying various behaviors of traffic participants and collecting comprehensive real-time data to verify the ADS. 
+Ensuring the safety of autonomous driving systems (ADSs) through rigorous verification in simulated environments is crucial before real-world deployment. However, using simulation environments for ADS testing and verification poses several challenges, including specifying various behaviors of traffic participants and collecting comprehensive real-time data to verify the ADS. 
 
-To address these challenges, we propose a framework for runtime verification of ADSs, focusing on Autoware, a leading ADS. This framework integrates AWSIM-Script, a scripting language for defining traffic scenarios; Runtime Monitor, a tool to record and log real-time data during the simulation for offline verification; and AW-Checker, a Linear Temporal Logic-based property checker for verifying safety requirements. 
+To address these challenges, we propose a framework {% cite TranIEEETR2025 %} for runtime verification of ADSs. This framework integrates AWSIM-Script, a scripting language for defining traffic scenarios; Runtime Monitor, a tool to record and log real-time data during the simulation for offline verification; and AW-Checker, a Linear Temporal Logic-based property checker for verifying safety requirements. 
 
 ![Framework Overview](../../assets/img/projects/framework-overview.jpg){: width="600"}
 
@@ -34,5 +34,5 @@ We use Maude as the specification and programming language to define the syntax 
 Using the Maude LTL model checker, AW-Checker verifies whether the trace satisfies the given properties. 
 Leveraging the Maude LTL model checker offers two key benefits: it provides high performance and helps avoid potential bugs that could arise from self-implemented search/checking algorithms.
 
-The framework's source code is available at [https://github.com/duongtd23/AW-Runtime-Verification](https://github.com/duongtd23/AW-Runtime-Verification).
-A paper reporting this framework has been submitted to an IEEE Transactions journal and is currently under review.
+Techical details of the framework are presented in our paper {% cite TranIEEETR2025 %}, and
+the framework's source code is available at [https://github.com/duongtd23/AW-Runtime-Verification](https://github.com/duongtd23/AW-Runtime-Verification).

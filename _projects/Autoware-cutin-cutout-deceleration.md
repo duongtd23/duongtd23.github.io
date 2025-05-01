@@ -10,7 +10,7 @@ related_publications: true
 # giscus_comments: true
 ---
 
-In this project, we conducted a bundle of experiments to evaluate the safety of Autoware, a leading open-source ADS platform. Autoware and Baidu Apollo are the only open-source autonomous driving platforms supporting full autonomy (by 2024). While there exist many studies subject to Baidu Apollo safety analysis, to the best of our knowledge, this study is the first to attempt either verification or automated testing of Autoware.
+In this project, we conducted a bundle of experiments to evaluate the safety of Autoware, a leading open-source autonomous driving system (ADS). Autoware and Baidu Apollo are the only open-source autonomous driving platforms supporting full autonomy (by 2024). While there exist many studies subject to Baidu Apollo safety analysis, to the best of our knowledge, this study is the first to attempt either verification or automated testing of Autoware.
 Unlike many existing studies that primarily focus on identifying and/or generating critical scenarios (that pose significant risks to ADSs or may lead to collisions), we base our approach on a well-established safety standard--[the JAMA standard](https://www.jama.or.jp/english/reports/docs/Automated_Driving_Safety_Evaluation_Framework_Ver3.0.pdf)--which offers a systematic methodology for evaluating ADS safety.
 
 ## JAMA standard
@@ -20,8 +20,9 @@ The JAMA standard takes into account comprehensive variations of all factors tha
 
 We conducted a series of experiments to assess the safety of Autoware under different traffic disturbance variations defined by the JAMA standard in non-intersection road geometries, such as vehicles cutting in, cutting out, and decelerating. While no collision would occur under the competent and careful human driver model, which simulates a highly skilled and cautious human driver, Autoware failed to prevent collisions in some cases. JAMA established this competent and careful driver model as the minimum safety benchmark. An ADS must show a higher level of hazard detection and collision avoidance performance than this model; otherwise, the ADS is unsafe.
 
-## Demonstration of some collisions
 > Autoware collision avoidance is not as good as the careful driver model. 
+
+## Demonstration of some collisions
 
 In the experiments, we found that Autoware failed to prevent collisions in some cases, particularly during high-speed scenarios and fast lateral movements by other vehicles.
 Below are demonstrations of some collisions.
@@ -82,4 +83,5 @@ A collision occurred in the camera-lidar fusion perception mode (video above).
 
 <!-- In contrast, the lidar-only mode could avoid a collision, see the following video: -->
 
-All materials supporting this project are available at [https://github.com/duongtd23/AW-Runtime-Verification](https://github.com/duongtd23/AW-Runtime-Verification).
+Detailed experimental results are reported in our paper {% cite TranIEEETR2025 %},
+and all materials supporting the experiments are available at [https://github.com/duongtd23/AW-Runtime-Verification](https://github.com/duongtd23/AW-Runtime-Verification).
