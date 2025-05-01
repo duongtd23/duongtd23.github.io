@@ -55,7 +55,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-proof-scores-a-survey-in-which-i-am-a-co-author-has-been-accepted-for-publication-in-acm-computing-surveys",
           title: 'Our paper, Proof Scores: A Survey, in which I am a co-author, has...',
           description: "",
-          section: "News",},{id: "news-our-paper-titled-safety-analysis-of-autonomous-driving-systems-a-simulation-based-runtime-verification-approach-has-been-accepted-for-publication-in-ieee-transactions-on-reliability",
+          section: "News",},{id: "news-our-paper-titled-safety-analysis-of-autonomous-driving-systems-a-simulation-based-runtime-verification-approach-has-been-accepted-for-publication-in-ieee-transactions-on-reliability-pdf",
           title: 'Our paper titled Safety Analysis of Autonomous Driving Systems: A Simulation-based Runtime Verification...',
           description: "",
           section: "News",},{id: "projects-enhancing-decision-making-safety-in-ad-through-online-model-checking",
