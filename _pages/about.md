@@ -20,8 +20,12 @@ working with [Takashi Tomita](https://www.jaist.ac.jp/english/laboratory/ngdi/to
 I was fortunate to be supervised by [Kazuhiro Ogata](https://www.jaist.ac.jp/~ogata/), 
 earning my PhD in Sep 2023 and continuing as a postdoctoral researcher in his lab until May 2024.
 
-My research interests lie in the practical application of formal methods to real-world problems and systems. 
-Currently, in the research group led by [Toshiaki Aoki](https://www.jaist.ac.jp/english/laboratory/ngdi/aoki.html)
-and [Takashi Tomita](https://www.jaist.ac.jp/english/laboratory/ngdi/tomita.html), 
-we are working on the [Formal Method and Autonomous Driving](https://fomaad.github.io/) project, 
-which focuses on leveraging formal methods to verify next-generation automotive systems, including autonomous driving systems.
+My research interests lie in the practical application of formal methods to verify the trustworthiness of critical systems. 
+Currently, I'm a member of the [Formal Method and Autonomous Driving](https://fomaad.github.io/) project, 
+collaborating with [Takashi Tomita](https://www.jaist.ac.jp/english/laboratory/ngdi/tomita.html) and 
+[Toshiaki Aoki](https://www.jaist.ac.jp/english/laboratory/ngdi/aoki.html), 
+focusing on the verification of real-world autonomous driving systems. 
+Before that, I studied the application of formal verification techniques to a range of domains, 
+including verifying mutual exclusion in shared-memory protocols, 
+analyzing the security of traditional and post-quantum cryptographic protocols, 
+and ensuring safe memory reclamation in concurrent programs.
