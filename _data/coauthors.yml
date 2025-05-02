@@ -1,7 +1,15 @@
-"CanhMD":
+"do":
   - firstname: ["Canh", "Canh Minh", "C. M.", "C.", "Canh Minh Do"]
     url: https://canhminhdo.github.io/
 
-"KazuhiroO":
+"ogata":
   - firstname: ["Kazuhiro", "K. ", "Kazuhiro Ogata"]
-    url: https://www.jaist.ac.jp/~ogata/, 
+    url: https://www.jaist.ac.jp/~ogata/
+
+"aoki":
+  - firstname: ["Toshiaki", "T. ", "Toshiaki Aoki"]
+    url: https://fp.jaist.ac.jp/public/Default2.aspx?id=60&l=1
+
+"tomita":
+  - firstname: ["Takashi", "T. ", "Takashi Tomita"]
+    url: https://fp.jaist.ac.jp/public/Default2.aspx?id=658&l=1
