@@ -134,6 +134,20 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=VnWazk8AAAAJ", "_blank");
         },
       },{
+        id: 'social-researchmap',
+        title: 'Researchmap',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://researchmap.jp/duongtd", "_blank");
+        },
+      },{
+        id: 'social-JAIST_faculty_profile',
+        title: 'Jaist_faculty_profile',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://fp.jaist.ac.jp/public/Default2.aspx?id=794&l=1", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
