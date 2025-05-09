@@ -49,3 +49,13 @@ scholar_userid: VnWazk8AAAAJ # your Google Scholar ID
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+
+researchmap:
+  logo: assets/icon/researchmap.png
+  title: Researchmap
+  url: https://researchmap.jp/duongtd
+
+JAIST_faculty_profile:
+  logo: assets/icon/jaist.jpeg
+  title: JAIST faculty profile
+  url: https://fp.jaist.ac.jp/public/Default2.aspx?id=794&l=1

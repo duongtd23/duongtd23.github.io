@@ -29,3 +29,5 @@ Before that, I studied the application of formal verification techniques to a ra
 including verifying mutual exclusion in shared-memory protocols, 
 analyzing the security of traditional and post-quantum cryptographic protocols, 
 and ensuring safe memory reclamation in concurrent programs.
+
+**Research Keywords**: Verification, Theorem Proving, Model checking, Software Engineering, Application of Formal Method, Autonomous Driving Systems
