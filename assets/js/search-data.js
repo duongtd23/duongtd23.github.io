@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-travels",
+          title: "Travels",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/travels/";
+          },
         },{id: "news-i-earned-a-ph-d-in-information-science-from-jaist-and-was-honored-with-the-outstanding-student-award",
           title: 'I earned a Ph.D. in Information Science from JAIST and was honored with...',
           description: "",
