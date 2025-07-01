@@ -120,5 +120,5 @@ Being a researcher offers many opportunities for business travel.
     </a>
 </div>
 <div class="caption">
-    A random building and Santiago Bernabeu Stadium.
+    A church and Santiago Bernabeu Stadium.
 </div>
