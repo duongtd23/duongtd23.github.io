@@ -147,4 +147,7 @@
       </div>
     </progress>
   {% endif %}
+  {% if page.custom_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ page.custom_css }}">
+  {% endif %}
 </header>
