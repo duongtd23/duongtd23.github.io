@@ -11,6 +11,19 @@ custom_css: travel.css
 
 Being a researcher offers many opportunities for business travel.
 
+### Santa Cruz, California - 2025
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/travel/santacruz1.jpeg">
+        <img src="/assets/img/travel/santacruz1-300.jpeg" />
+    </a>
+    <a class="spotlight" href="/assets/img/travel/santacruz2.jpeg">
+        <img src="/assets/img/travel/santacruz2-300.jpeg" />
+    </a>
+</div>
+<div class="caption">
+    UC Santa Cruz Campus
+</div>
+
 ### Toulouse, France - 2025
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/travel/toulouse1.jpeg">
