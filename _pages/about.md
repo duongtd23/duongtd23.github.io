@@ -13,6 +13,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+service: true # includes a section for professional service
 ---
 
 I am an Assistant Professor at the Japan Advanced Institute of Science and Technology (JAIST), 

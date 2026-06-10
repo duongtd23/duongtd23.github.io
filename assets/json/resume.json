@@ -131,6 +131,9 @@
       ]
     }
   ],
+  "services": [
+    "(Defined in _data/services.yml)"
+  ],
   "references": [
     {
       "name": "Prof. Toshiaki Aoki",

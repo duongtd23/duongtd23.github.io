@@ -94,6 +94,8 @@ layout: default
               <h3 class="card-title font-weight-medium">Work Experience</h3>
             {% elsif data[0] == 'interests' %}
               <h3 class="card-title font-weight-medium">Research Interests</h3>
+            {% elsif data[0] == 'services' %}
+              <h3 class="card-title font-weight-medium">Professional Services</h3>
             {% else %}
               <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             {% endif %}
@@ -119,6 +121,8 @@ layout: default
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
                   {% include resume/interests.liquid %}
+                {% when 'services' %}
+                  {% include services.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
