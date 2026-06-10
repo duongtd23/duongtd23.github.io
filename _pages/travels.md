@@ -23,6 +23,7 @@ Being a researcher offers many opportunities for business travel.
 <div class="caption">
     UC Santa Cruz Campus
 </div>
+---
 
 ### Toulouse, France - 2025
 <div class="spotlight-group">
