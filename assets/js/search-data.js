@@ -126,11 +126,11 @@ ninja.data = [{
           window.open("https://github.com/duongtd23", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/duongtdvnu", "_blank");
+          window.open("https://scholar.google.com/citations?user=VnWazk8AAAAJ", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -140,18 +140,25 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-7092-2084", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=VnWazk8AAAAJ", "_blank");
+          window.open("https://www.linkedin.com/in/duongtdvnu", "_blank");
+        },
+      },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/272/8187.html", "_blank");
         },
       },{
         id: 'social-researchmap',
         title: 'Researchmap',
         section: 'Socials',
         handler: () => {
-          window.open("https://researchmap.jp/duongtd", "_blank");
+          window.open("https://researchmap.jp/duongtd?lang=en", "_blank");
         },
       },{
         id: 'social-JAIST_faculty_profile',
