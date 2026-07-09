@@ -79,6 +79,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/AD-safety-shield-through-onlineMC/";
+            },},{id: "projects-safety-reference-benchmarks-for-evaluating-adss",
+          title: 'Safety Reference Benchmarks for Evaluating ADSs',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ADS-Safety-Benchmark/";
             },},{id: "projects-a-runtime-verification-framework-for-adss",
           title: 'A Runtime Verification Framework for ADSs',
           description: "",
