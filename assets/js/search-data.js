@@ -89,6 +89,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ADS-runtime-verification/";
+            },},{id: "projects-awsim-script-and-awsim-scriptpy-scenario-specification-languages-for-adss",
+          title: 'AWSIM-Script and AWSIM-ScriptPy: Scenario specification languages for ADSs',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AWSIM-Script-and-AWSIM-ScriptPy/";
             },},{id: "projects-autoware-safety-analysis-in-cutin-cutout-and-deceleration-scenarios",
           title: 'Autoware Safety Analysis in cutin, cutout, and deceleration scenarios',
           description: "",
